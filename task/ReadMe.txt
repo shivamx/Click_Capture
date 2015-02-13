@@ -1,0 +1,7 @@
+
+1. import localhost.sql in your database
+ (This will create database 'user' and 2 tables in it one is 'pos' and another is 'sample')
+
+2. go to config.php and fill your database username and password .
+
+3. run login.php
